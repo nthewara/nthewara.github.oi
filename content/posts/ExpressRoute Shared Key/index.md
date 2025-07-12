@@ -1,6 +1,7 @@
 ---
 title: 'ExpressRoute Shared Key'
 date: '2025-07-10'
+draft: true
 ---
 
 # BGP Authentication with MD5 Hash

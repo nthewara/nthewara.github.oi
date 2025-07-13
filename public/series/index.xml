@@ -4,10 +4,12 @@
     <title>Series on Cloud &amp; AI Platforms Blog</title>
     <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on Cloud &amp; AI Platforms Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nthewara@gmail.com (Nirmal Thewarathanthri)</managingEditor>
     <webMaster>nthewara@gmail.com (Nirmal Thewarathanthri)</webMaster>
+    <copyright>© 2025 Nirmal Thewarathanthri</copyright>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

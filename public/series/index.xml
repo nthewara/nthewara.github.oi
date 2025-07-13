@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Cloud &amp; AI Platforms Blog</title>
-    <link>https://nirmalt.com/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on Cloud &amp; AI Platforms Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nthewara@gmail.com (Nirmal Thewarathanthri)</managingEditor>
     <webMaster>nthewara@gmail.com (Nirmal Thewarathanthri)</webMaster>
-    <atom:link href="https://nirmalt.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Nirmal Thewarathanthri</copyright>
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

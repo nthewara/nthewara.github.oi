@@ -4,32 +4,32 @@
     <title>Posts on Cloud &amp; AI Platforms Blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Cloud &amp; AI Platforms Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>nthewara@gmail.com (Nirmal Thewarathanthri)</managingEditor>
     <webMaster>nthewara@gmail.com (Nirmal Thewarathanthri)</webMaster>
-    <copyright>© 2025 Nirmal Thewarathanthri</copyright>
-    <lastBuildDate>Fri, 11 Jul 2025 15:21:03 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 11 Jul 2025 15:21:03 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Fri, 11 Jul 2025 15:21:03 +0800</pubDate>
-      <author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
+      <pubDate>Fri, 11 Jul 2025 15:21:03 +0800</pubDate><author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
       <guid>http://localhost:1313/posts/test/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Test2</title>
       <link>http://localhost:1313/posts/test2/</link>
-      <pubDate>Fri, 11 Jul 2025 15:21:03 +0800</pubDate>
-      <author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
+      <pubDate>Fri, 11 Jul 2025 15:21:03 +0800</pubDate><author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
       <guid>http://localhost:1313/posts/test2/</guid>
       <description></description>
-      
     </item>
-    
+    <item>
+      <title>ExpressRoute Shared Key</title>
+      <link>http://localhost:1313/posts/expressroute-shared-key/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
+      <guid>http://localhost:1313/posts/expressroute-shared-key/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

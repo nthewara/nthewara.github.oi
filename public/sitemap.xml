@@ -2,53 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-13T15:21:03+08:00</lastmod>
+    <loc>https://nirmalt.com/</loc>
+    <lastmod>2025-07-13T10:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-13T15:21:03+08:00</lastmod>
+    <loc>https://nirmalt.com/posts/</loc>
+    <lastmod>2025-07-13T10:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-07-11T15:21:03+08:00</lastmod>
+    <loc>https://nirmalt.com/categories/</loc>
+    <lastmod>2025-07-13T09:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
-    <lastmod>2025-07-11T15:21:03+08:00</lastmod>
+    <loc>https://nirmalt.com/tags/example/</loc>
+    <lastmod>2025-07-13T09:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2025-07-11T15:21:03+08:00</lastmod>
+    <loc>https://nirmalt.com/tags/</loc>
+    <lastmod>2025-07-13T09:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/test2/</loc>
-    <lastmod>2025-07-11T15:21:03+08:00</lastmod>
+    <loc>https://nirmalt.com/categories/test/</loc>
+    <lastmod>2025-07-13T09:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://nirmalt.com/posts/test/</loc>
+    <lastmod>2025-07-13T09:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://nirmalt.com/tags/test/</loc>
+    <lastmod>2025-07-13T09:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>https://nirmalt.com/posts/test2/</loc>
+    <lastmod>2025-07-13T08:21:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://nirmalt.com/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://nirmalt.com/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://nirmalt.com/resources/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://nirmalt.com/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

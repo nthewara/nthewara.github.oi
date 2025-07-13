@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cloud &amp; AI Platforms Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://nirmalt.com/tags/</link>
     <description>Recent content in Tags on Cloud &amp; AI Platforms Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>nthewara@gmail.com (Nirmal Thewarathanthri)</managingEditor>
     <webMaster>nthewara@gmail.com (Nirmal Thewarathanthri)</webMaster>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jul 2025 09:21:03 +0800</lastBuildDate>
+    <atom:link href="https://nirmalt.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>https://nirmalt.com/tags/example/</link>
+      <pubDate>Sun, 13 Jul 2025 09:21:03 +0800</pubDate><author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
+      <guid>https://nirmalt.com/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://nirmalt.com/tags/test/</link>
+      <pubDate>Sun, 13 Jul 2025 09:21:03 +0800</pubDate><author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
+      <guid>https://nirmalt.com/tags/test/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

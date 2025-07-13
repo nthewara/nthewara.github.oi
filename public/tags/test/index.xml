@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloud &amp; AI Platforms Blog</title>
-    <link>https://nirmalt.com/</link>
-    <description>Recent content on Cloud &amp; AI Platforms Blog</description>
+    <title>Test on Cloud &amp; AI Platforms Blog</title>
+    <link>https://nirmalt.com/tags/test/</link>
+    <description>Recent content in Test on Cloud &amp; AI Platforms Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>nthewara@gmail.com (Nirmal Thewarathanthri)</managingEditor>
     <webMaster>nthewara@gmail.com (Nirmal Thewarathanthri)</webMaster>
     <lastBuildDate>Sun, 13 Jul 2025 09:21:03 +0800</lastBuildDate>
-    <atom:link href="https://nirmalt.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nirmalt.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://nirmalt.com/posts/test/</link>
@@ -22,20 +22,6 @@
       <link>https://nirmalt.com/posts/test2/</link>
       <pubDate>Sun, 13 Jul 2025 08:21:03 +0800</pubDate><author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
       <guid>https://nirmalt.com/posts/test2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>https://nirmalt.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
-      <guid>https://nirmalt.com/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resources</title>
-      <link>https://nirmalt.com/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nthewara@gmail.com (Nirmal Thewarathanthri)</author>
-      <guid>https://nirmalt.com/resources/</guid>
       <description></description>
     </item>
   </channel>
